@@ -1,0 +1,20 @@
+[
+  {
+    "nombre_club": "asdf",
+    "colores_club": "asdf",
+    "mail_club": "asdf",
+    "contraseña_club": "asdf"
+  },
+  {
+    "nombre_club": "d",
+    "colores_club": "d",
+    "mail_club": "d",
+    "contraseña_club": "d"
+  },
+  {
+    "nombre_club": "a",
+    "colores_club": "a",
+    "mail_club": "a",
+    "contraseña_club": "d"
+  }
+]
